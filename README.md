@@ -1,5 +1,5 @@
 # Networking-Design-for-Walmart
-#### {Cisco Packet Tracer, Protocols, Topology, Cabling}
+#### {  [Cisco Packet Tracer](https://github.com/KwabenaSark/Networking-Design-for-Walmart/blob/main/3.png), [Protocols](), [Topology, Cabling](https://github.com/KwabenaSark/Networking-Design-for-Walmart/blob/main/3.png)}
 
 ## INTRODUCTION
 Walmart is a retail giant that has expanded from its humble beginnings as a small store in Rogers, Arkansas, to tens of thousands of locations across the United States and beyond. Through innovations, it has created a seamless experience for customers to shop at any time and from any location. Walmart runs over 10,500 stores in 24 countries as well as eCommerce websites. Walmart employs 2.3 million people worldwide.
@@ -179,7 +179,7 @@ Before being transferred to its final destination, data must first be sent to th
 
 
 ## 4
-     ![3](https://github.com/KwabenaSark/Networking-Design-for-Walmart/blob/main/3.png)                       
+![3](https://github.com/KwabenaSark/Networking-Design-for-Walmart/blob/main/3.png)                       
 
  
 
