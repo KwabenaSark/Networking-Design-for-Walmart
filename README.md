@@ -51,6 +51,7 @@ VoIP is on the OSI model's sixth layer is also known as the Presentation Layer. 
 ## 2
 
 A logical topology is a networking concept that describes the design of a network. The logical topology of a network can be dynamically maintained and altered using network equipment such as routers and switches.
+![Topology](https://github.com/KwabenaSark/Networking-Design-for-Walmart/blob/main/1.png)
 
  
 
@@ -62,8 +63,8 @@ As seen in the diagram above, each device is connected to a central hub. In a st
 *	Allows for easy adding and removing individual components from a network. 
 
 
-For Wireless Technology in a star topology
-
+#### For Wireless Technology in a star topology
+![2](https://github.com/KwabenaSark/Networking-Design-for-Walmart/blob/main/2.png)
 
  
 
@@ -178,7 +179,7 @@ Before being transferred to its final destination, data must first be sent to th
 
 
 ## 4
-                            
+     ![3](https://github.com/KwabenaSark/Networking-Design-for-Walmart/blob/main/3.png)                       
 
  
 
